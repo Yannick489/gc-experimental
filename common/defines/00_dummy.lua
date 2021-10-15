@@ -1,6 +1,6 @@
 
 NDefines.NMilitary.BASE_COMBAT_WIDTH = 15
-NDefines.NMilitary.MAX_COMBAT_WIDTH = 55
+NDefines.NMilitary.MAX_COMBAT_WIDTH = 100
 NDefines.NMilitary.WAR_LENGTH_DAMAGE_MODIFIER = 0.01				-- How much (by percentage) the damage dealt will be increased each day of the combat
 NDefines.NMilitary.OVERRUN_FACTOR = 10							-- How much stronger one side of a battle must be to cause the other side to be overrun (integer)
 NDefines.NMilitary.OVERRUN_FACTOR_CANNOT_LEAVE = 2				-- Same as OVERRUN_FACTOR, but when combat cannot be left by the combattants. (integer)

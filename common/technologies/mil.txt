@@ -75,7 +75,7 @@ technology = {
 	infantry_shock		= 	0.2
 	cavalry_shock		= 	0.2
 	
-	combat_width = 20 # TEST
+	combat_width = 65 # TEST
 }
 
 # The 30 big techs from here on
