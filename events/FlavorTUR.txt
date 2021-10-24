@@ -131,7 +131,7 @@ country_event = {
 		add_army_professionalism = 0.02
 		add_country_modifier = {
 			name = tur_army_reform
-			duration = 7300
+			duration = 3650
 		}
 	}
 	option = {		# Reform Army and Navy
@@ -140,7 +140,7 @@ country_event = {
 		add_army_professionalism = 0.02
 		add_country_modifier = {
 			name = tur_army_and_navy_reform
-			duration = 7300
+			duration = 3650
 		}
 	}
 	option = {		# Great Navy Reform
@@ -149,7 +149,7 @@ country_event = {
 		add_army_professionalism = 0.02
 		add_country_modifier = {
 			name = tur_navy_reform
-			duration = 7300
+			duration = 3650
 		}
 	}
 }
@@ -853,7 +853,7 @@ country_event = {
 	}
 }
 
-# Kösem Sultana
+# Kï¿½sem Sultana
 country_event = {
 	id = flavor_tur.3377
 	title = "flavor_tur.EVTNAME3377"
@@ -880,7 +880,7 @@ country_event = {
 		months = 100
 	}
 	
-	option = {		# Wed Kösem
+	option = {		# Wed Kï¿½sem
 		name = "flavor_tur.EVTOPTA3377"
 		ai_chance = { factor = 90 }
 		add_ruler_modifier = {
@@ -893,7 +893,7 @@ country_event = {
 				has_government_attribute = queen
 			}
 			define_consort = {
-				name = "Kösem Sultan"
+				name = "Kï¿½sem Sultan"
 				culture = greek
 				adm = 5
 				dip = 4
@@ -922,7 +922,7 @@ country_event = {
 	}
 }
 
-# The Murder of Kösem Sultana
+# The Murder of Kï¿½sem Sultana
 country_event = {
 	id = flavor_tur.3384
 	title = "flavor_tur.EVTNAME3384"
@@ -946,13 +946,13 @@ country_event = {
 		months = 300
 	}
 	
-	option = {		# Kösem is murdered
+	option = {		# Kï¿½sem is murdered
 		name = "flavor_tur.EVTOPTA3384"
 		remove_country_modifier = kosem_sultana
 	}
 }
 
-# The Age of the Köprülüs
+# The Age of the Kï¿½prï¿½lï¿½s
 country_event = {
 	id = flavor_tur.3385
 	title = "flavor_tur.EVTNAME3385"
@@ -974,7 +974,7 @@ country_event = {
 		months = 100
 	}
 	
-	option = {		# Support the Köprülü Family
+	option = {		# Support the Kï¿½prï¿½lï¿½ Family
 		name = "flavor_tur.EVTOPTA3385"
 		ai_chance = { factor = 90 }
 		if = {
