@@ -207,7 +207,7 @@ innovativeness_ideas = {
 	category = ADM
 
 	bonus = {
-	free_mil_policy = 1
+	possible_policy = 1
 	}
 	scientific_revolution = {
 		technology_cost = -0.1
@@ -1017,7 +1017,7 @@ administrative_ideas = {
 		expand_administration_cost = -0.75
 	}
 	administrative_efficiency_idea = {
-		possible_policy = 1
+		free_mil_policy = 1
 	}
 
 
