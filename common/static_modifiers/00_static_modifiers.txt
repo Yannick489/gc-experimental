@@ -1196,7 +1196,6 @@ power_projection = {
 	defensiveness = 0.1
 	global_trade_power = 0.2
 	prestige = 0.75
-	land_morale = 0.10
 	naval_morale = 0.10
 	legitimacy = 0.5
 	devotion = 0.5
