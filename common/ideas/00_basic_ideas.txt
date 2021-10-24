@@ -28,9 +28,8 @@ aristocracy_ideas = {
 	serfdom = {
 		global_manpower_modifier = 0.33
 	}
-	noble_officers = {
-		army_tradition_decay = -0.01
-		navy_tradition_decay = -0.01
+	quality_education = {
+		army_tradition_from_battle = 0.5
 	}
 	noble_resilience = {
 		general_cost = -0.20
@@ -838,8 +837,9 @@ quality_ideas = {
 	private_to_marshal = {
 		infantry_power = 0.1
 	}
-	quality_education = {
-		army_tradition_from_battle = 0.5
+	noble_officers = {
+		army_tradition_decay = -0.01
+		navy_tradition_decay = -0.01
 	}
 	naval_drill = {
 		global_regiment_recruit_speed = -0.33
