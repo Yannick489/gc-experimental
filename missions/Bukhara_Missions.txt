@@ -115,6 +115,8 @@ bukhara_missions_slot_2 = {
 				province_id = 442
 				province_id = 454
 			}	
+			NOT = { development = 20 }
+			NOT = { province_has_center_of_trade_of_level = 3 }
 		}
 		trigger = {
 			AND = {
