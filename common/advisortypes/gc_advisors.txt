@@ -20,6 +20,7 @@ gc_arty_officer = {
 	
 	# Bonus
 	artillery_power = 0.1
+	artillery_cost = -0.1
 
 	skill_scaled_modifier = { meritocracy = 0.25 }
 
