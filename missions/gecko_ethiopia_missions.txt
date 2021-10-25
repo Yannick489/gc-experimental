@@ -26,7 +26,10 @@ gc_eth_branch_1 = {
         }
 
         effect = {
-            add_treasury = 250
+          add_country_modifier = {
+				name = "naval_enthusiasm_mission"
+				duration = 9125 #25 years
+			}	
         }
     }
 
