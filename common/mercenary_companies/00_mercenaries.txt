@@ -438,12 +438,14 @@ merc_purbiyas = {
 	sprites = { dlc092_jnp_sprite_pack dlh_base_sprite_pack }
     trigger = {
 		any_owned_province = {
-			region = hindusthan_region
-			region = bengal_region
-			region = west_india_region
-			region = burma_region
-			region = coromandel_region
-			region = deccan_region
+			OR = {
+				region = hindusthan_region
+				region = bengal_region
+				region = west_india_region
+				region = burma_region
+				region = coromandel_region
+				region = deccan_region
+			}	
 		}
 	}
 	modifier = { fire_damage = 0.15 }
@@ -458,12 +460,14 @@ merc_gorkhalis = {
 	sprites = { dlc091_npl_sprite_pack indiangfx_sprite_pack }
     trigger = {
 		any_owned_province = {
+			OR = {
 				region = hindusthan_region
 				region = bengal_region
 				region = west_india_region
 				region = burma_region
 				region = coromandel_region
 				region = deccan_region
+				}
 			}
 	}
 	modifier = {
@@ -500,12 +504,14 @@ merc_banjara_company = {
 	sprites = { dlc091_mer_sprite_pack indiangfx_sprite_pack }
 	trigger = {
 		any_owned_province = {
-			region = hindusthan_region
-			region = bengal_region
-			region = west_india_region
-			region = burma_region
-			region = coromandel_region
-			region = deccan_region
+			OR = {
+				region = hindusthan_region
+				region = bengal_region
+				region = west_india_region
+				region = burma_region
+				region = coromandel_region
+				region = deccan_region
+			}	
 		}
 	}
 	modifier = { }
@@ -745,7 +751,7 @@ merc_tabarestan_company = {
 	trigger = {
 		any_owned_province = { region = persia_region }
 	}
-    modifier = { }
+    modifier = { infantry_power = 0.1 }
 }
 
 merc_novgorod_company = {
