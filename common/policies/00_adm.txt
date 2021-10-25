@@ -416,7 +416,7 @@ the_tolerance_act = {
 }
 
 vassal_taxation_policy = {
-	monarch_power = MIL
+	monarch_power = ADM
 
 	potential = {
 		has_idea_group = offensive_ideas
@@ -428,8 +428,8 @@ vassal_taxation_policy = {
 		full_idea_group = administrative_ideas
 	}
 
-	infantry_power = 0.1
-	artillery_bonus_vs_fort = 1
+	global_tax_modifier = 0.2
+	global_regiment_cost = -0.1
 
 	ai_will_do = {
 		factor = 1
@@ -1476,8 +1476,8 @@ anti_heresy_act = {
 		full_idea_group = offensive_ideas
 	}
 	
-	global_tax_modifier = 0.2
-	global_regiment_cost  = -0.10
+	infantry_power = 0.1
+	artillery_bonus_vs_fort = 1
 
 	ai_will_do = {
 		factor = 1
