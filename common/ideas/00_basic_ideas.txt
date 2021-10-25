@@ -990,7 +990,7 @@ administrative_ideas = {
 	category = ADM
 
 	bonus = {
-		advisor_cost = -0.15
+		advisor_cost = -0.1
 	}
 	
 	adm_adaptability = {

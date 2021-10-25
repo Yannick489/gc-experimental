@@ -223,7 +223,7 @@ the_royal_commission_act = {
 	}
 
 	trade_efficiency = 0.1
-	advisor_cost = -0.1
+	advisor_cost = -0.05
 	
 	ai_will_do = {
 		factor = 0.6
@@ -231,7 +231,7 @@ the_royal_commission_act = {
 }
 
 edict_of_resistance = {
-	monarch_power = ADM
+	monarch_power = MIL
 
 	potential = {
 		has_idea_group = defensive_ideas
@@ -244,7 +244,7 @@ edict_of_resistance = {
 	}
 
 
-	prestige = 1
+	shock_damage_received = -0.1
 	defensiveness = 0.10
 
 	ai_will_do = {
@@ -1464,7 +1464,7 @@ church_sponsored_guilds = {
 }
 
 anti_heresy_act = {
-	monarch_power = ADM
+	monarch_power = MIL
 	
 	potential = {
 		has_idea_group = religious_ideas
