@@ -103,19 +103,6 @@ african_missions = {
 			}
 		}
 	}
-	prestor_john = {
-		icon = mission_african_soldier
-		required_missions = { }
-		
-		trigger = { has_country_flag = eth_prester_john_discovered
-		}
-		effect = {
-			country_event = {
-				id = flavor_eth.4
-				}
-				custom_tooltip = g_help_from_the_west
-		}
-	}
 }
 
 

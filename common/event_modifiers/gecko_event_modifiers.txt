@@ -106,4 +106,14 @@ gecko_ethiopia_highlands_and_mountains_modifier = {
 
 alte_salzstrase = {
 	trade_goods_size = 1.0
-	}
+}
+
+gc_ethiopia_prester_john = {
+	prestige_decay = -0.01
+	tolerance_own = 2
+}
+
+gc_ethiopia_crusade = {
+	army_tradition_decay = -0.01
+	movement_speed = 0.10
+}

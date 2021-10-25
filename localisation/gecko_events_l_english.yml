@@ -30,4 +30,25 @@
  gecko.7.d:0 "Our previous ruler was taken from us far too soon. Luckily for us, his cousin shares many of the same talents and ambitions as his relative and has expressed his desire to continue the legacy of our late monarch. However, it will greatly upset the nobility if we bypass the tradition succession laws.."
  gecko.7.a:0 "Abdicate in favour of the late ruler's cousin."
  gecko.7.b:0 "Execute this traitor!"
+
+ #Ethiopia Mission Events
+ gc_eth_events.1.t:0 "Legacy of Prester John"
+ gc_eth_events.1.d:0 "Prester John was a legendary Christian patriarch, presbyter, and king. Stories popular in Europe in the twelfth through to the seventeenth centuries told of a Nestorian patriarch and king who was said to rule over a Christian nation lost amid the pagans and Muslims in the Orient. The accounts are varied collections of medieval popular fantasy, depicting Prester John as a descendant of the Three Magi, ruling a kingdom full of riches, marvels, and strange creatures. "
+ gc_eth_events.1.a:0 "We must continue to search"
+
+ gc_eth_events.2.t:0 "Crusade from Africa"
+ gc_eth_events.2.d:0 "The Nation of Ethiopia has ever been on the defensive side of war, encircled by religious Enemies it has fought several times for survival. Now it is the time we turn the tides and go on the offensive!"
+ gc_eth_events.2.a:0 "In the Name of God!"
+
+ gc_eth_events.3.t:0 "Reformation of the Coptic Faith"
+ gc_eth_events.3.d:0 "The Coptic Faith has reformed into a Religion where the Emperor is also the Head of the State."
+ gc_eth_events.3.a:0 "Sent by God"
+
+ gc_eth_events.4.title:0 "New Leader Elected!"
+ gc_eth_events.4.desc:0 "Now that your time as a Mortal comes to an end, you must chose your Heir."
+ gc_eth_events.4.a:0 "The Administrator"
+ gc_eth_events.4.b:0 "The Diplomat"
+ gc_eth_events.4.c:0 "The Militarist"
+ gc_eth_events.4.d:0 "The Strategist"
+ gc_eth_events.4.e:0 "The Tactician"
  

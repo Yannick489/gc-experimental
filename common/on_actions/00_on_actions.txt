@@ -830,6 +830,15 @@ on_monarch_death = {
 		flavor_tus.22 # Medici Pope
 		flavor_tus.24 # death of the Medici Pope
 	}
+
+	#gecko
+	if = {
+		limit = {
+			tag = ETH
+			has_reform = gc_ethiopian_theocracy_reform
+		}
+		country_event = { id = gc_eth_events.4 }
+	}
 }
 
 # country
