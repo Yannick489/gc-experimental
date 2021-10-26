@@ -4492,6 +4492,7 @@ country_event = {
 	is_triggered_only = yes
 	
 	trigger = {
+		always = no
 		has_dlc = "Leviathan"
 		is_subject_of_type = crown_colony
 		corruption = 3
@@ -4537,6 +4538,7 @@ country_event = {
 	is_triggered_only = yes
 	
 	trigger = {
+		always = no
 		has_dlc = "Leviathan"
 		is_subject_of_type = crown_colony
 		NOT = { dip = 3 }
@@ -4599,6 +4601,7 @@ country_event = {
 	is_triggered_only = yes
 	
 	trigger = {
+		always = no
 		has_dlc = "Leviathan"
 		is_subject_of_type = private_enterprise
 		NOT = { treasury = 150 }
@@ -4652,6 +4655,7 @@ country_event = {
 	is_triggered_only = yes
 	
 	trigger = {
+		always = no
 		has_dlc = "Leviathan"
 		is_subject_of_type = private_enterprise
 		NOT = { treasury = 200 }
@@ -4741,6 +4745,7 @@ country_event = {
 	is_triggered_only = yes
 	
 	trigger = {
+		always = no
 		has_dlc = "Leviathan"
 		is_subject_of_type = self_governing_colony
 		estate_influence = {
@@ -4813,6 +4818,7 @@ country_event = {
 	is_triggered_only = yes
 	
 	trigger = {
+		always = no
 		has_dlc = "Leviathan"
 		is_subject_of_type = self_governing_colony
 		estate_influence = {
@@ -4883,6 +4889,7 @@ country_event = {
 	}
 	
 	trigger = {
+		always = no
 		has_dlc = "Leviathan"
 		is_subject_of_type = private_enterprise
 		unrest = 3
@@ -5025,6 +5032,7 @@ province_event = {
 	goto = ROOT
 
 	trigger = {
+		always = no
 		has_dlc = "Leviathan"
 		OR = {
 			is_colony = yes
@@ -5101,6 +5109,7 @@ country_event = {
 	picture = HARBOUR_eventPicture
 
 	trigger = {
+		always = no
 		has_dlc = "Leviathan"
 		is_colonial_nation = yes
 		OR = {
