@@ -53,7 +53,7 @@ lithuanian_missions_1 = {
 					culture = lithuanian
 					type = theologian
 					skill = 3
-					cost_multiplier = 0.5
+					cost_multiplier = 0.67
 				}
 				add_country_modifier = {
 					name = "lit_conferedation_on_religion"
@@ -69,7 +69,7 @@ lithuanian_missions_1 = {
 					culture = lithuanian
 					type = inquisitor
 					skill = 3
-					cost_multiplier = 0.25
+					cost_multiplier = 0.67
 				}
 			}
 		}
