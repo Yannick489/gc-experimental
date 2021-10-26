@@ -1,8 +1,8 @@
-# No previous file for Saone
+# No previous file for Nabaydacu
 
-culture = dakota
+culture = caddo
 religion = totemism
-capital = "Saone"
+capital = "Nabaydacu"
 trade_goods = unknown
 hre = no
 base_tax = 3
@@ -14,10 +14,4 @@ native_hostileness = 6
 
 discovered_by = north_american
 
-1710.1.1 = {
-	owner = ---
-	controller = ---
-	is_city = no
-	tribal_owner = SIO
-}
 

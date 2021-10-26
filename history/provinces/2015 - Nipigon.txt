@@ -3,7 +3,7 @@
 culture = anishinabe
 religion = totemism 
 capital = "Nipigon" 
-trade_goods = fur
+trade_goods = unknown
 hre = no 
 base_tax = 1
 base_production = 1 
@@ -11,7 +11,6 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 6
 native_hostileness = 1
-tribal_owner = OJI
 
 
 discovered_by = north_american
@@ -30,7 +29,7 @@ discovered_by = north_american
 	controller = FRA
 	add_core = FRA
 	is_city = yes
-	capital = "Fort Népigon"
+	capital = "Fort Nï¿½pigon"
 } #French settlement. Ojibwe should have migrated west by then. 
 1707.5.12 = { discovered_by = GBR }
 1763.2.10 = {
