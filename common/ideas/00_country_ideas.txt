@@ -13832,7 +13832,6 @@ MYS_ideas = {
 	}
 	mys_reform_silk_industry = {
 		siege_ability = 0.1
-		artillery_bonus_vs_fort = 1
 	}
 	mys_unification_of_mysore = {
 		administrative_efficiency = 0.05
