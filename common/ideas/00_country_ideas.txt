@@ -1487,8 +1487,7 @@ MAM_ideas = {
 	free = yes
 	
 	red_sea_trade = {
-		global_trade_power = 0.10
-		trade_range_modifier = 0.10
+		global_tax_modifier = 0.15
 	}
 	mam_army_reform = {
 		discipline = 0.05
@@ -13908,9 +13907,10 @@ CRI_ideas = {
 	cri_allow_nogai_protectorates = {
 		global_manpower_modifier = 0.25
 	}
-	cri_despoilers = {
-		leader_land_manuever = 1
+	cri_ruthenian_raids = {
+		land_morale = 0.1
 	}
+	
 	cri_free_cattle_grazing = {
 		production_efficiency = 0.1
 	}
@@ -13918,8 +13918,8 @@ CRI_ideas = {
 		build_cost = -0.1
 		manpower_recovery_speed = 0.2
 	}
-	cri_ruthenian_raids = {
-		land_morale = 0.1
+	cri_despoilers = {
+		leader_land_manuever = 1
 	}
 }
 
