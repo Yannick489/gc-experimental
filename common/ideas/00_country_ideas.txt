@@ -1688,15 +1688,16 @@ TIM_ideas = {
 		tag = TIM
 	}
 	free = yes
-	
-	timurid_renaissance = {
-		technology_cost = -0.1
+	unleash_the_tiger = {
+		cavalry_power = 0.15
+		cavalry_cost = -0.1
 	}
+	
 	the_mantle_of_the_great_khan = {
 		land_morale = 0.15
 	}
-	unleash_the_tiger = {
-		cavalry_power = 0.2
+	timurid_renaissance = {
+		technology_cost = -0.1
 	}
 	enforced_tribute = {
 		global_tax_modifier = 0.20
