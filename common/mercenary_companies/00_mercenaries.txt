@@ -735,9 +735,8 @@ merc_royal_circassian_guards = {
 	sprites = { dlc047_cir_sprite_pack easterngfx_sprite_pack }
 	trigger = {  
 		religion_group = muslim
-		}
 		government = monarchy
-	
+	}
     modifier = {
 		infantry_power = 0.1
 	}
@@ -767,6 +766,7 @@ merc_novgorod_company = {
 				region = ruthenia_region
 				region = russia_region
 			}
+		}	
 	}
     modifier = { shock_damage_received = -0.15 }
 }
