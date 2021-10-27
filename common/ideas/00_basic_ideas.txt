@@ -285,7 +285,7 @@ religious_ideas = {
 		devotion = 0.75
 		monthly_fervor_increase = 0.375
 		church_power_modifier = 0.15
-		yearly_patriarch_authority = 0.5
+		yearly_patriarch_authority = 0.05
 	}
 	religious_tradition = {
 		culture_conversion_cost = -0.25

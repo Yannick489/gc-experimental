@@ -273,15 +273,15 @@ RUS_ideas = {
 		artillery_cost = -0.2
 		artillery_power = 0.1
 	}
-	abolish_the_mestnichestvo = {
-		yearly_corruption = -0.1
+	gatherers_of_tribute = {
+		global_tax_modifier = 0.2
 	}
 	table_of_ranks = {
 		advisor_cost = -0.10
 		army_tradition = 0.25
 	}	
-	land_of_the_rus = {
-		ae_impact = -0.1
+	abolish_the_mestnichestvo = {
+		yearly_corruption = -0.2
 	}
 	curriculum_of_the_cadet_corps = {
 		land_morale = 0.1
