@@ -2027,15 +2027,15 @@ valencia={
 	color={
 		87 70 168 #174 142 160
 	}
-	outgoing={
-		name="genua"
-		path={
-			213 1296 1297
-		}
-		control={
-			2893.000000 1353.500000 
-		}
-	}
+	#outgoing={
+	#	name="genua"
+	#	path={
+	#		213 1296 1297
+	#	}
+	#	control={
+	#		2893.000000 1353.500000 
+	#	}
+	#}
 	outgoing={
 		name="bordeaux"
 		path={
@@ -2045,15 +2045,15 @@ valencia={
 			2800.000000 1353.000000 2805.000000 1385.000000  
 		}
 	}
-	outgoing={
-		name="sevilla"
-		path={
-			4546 223 222 221 1295
-		}
-		control={
-			2812.000000 1300.000000 2798.000000 1275.000000 2780.000000 1258.000000 2751.000000 1257.000000 
-		}
-	}
+	#outgoing={
+	#	name="sevilla"
+	#	path={
+	#		4546 223 222 221 1295
+	#	}
+	#	control={
+	#		2812.000000 1300.000000 2798.000000 1275.000000 2780.000000 1258.000000 2751.000000 1257.000000 
+	#	}
+	#}
 	members={
 		1295
 		197 212 213 2987 2988 #catalonia_area
@@ -2061,6 +2061,56 @@ valencia={
 		211 214 2990 4557 #aragon_area
 		333 4559 4560 # Baleares
 	}
+}
+
+genua={
+	location=1298
+	color={
+		218 215 56 
+	}
+	outgoing={
+		name="venice"
+		path={
+			2980
+		}
+		control={
+			2965.000000 1397.000000 2998.000000 1414.300000 
+		}
+	}
+	outgoing={
+		name="valencia"
+		path={
+			4546 223 222 221 1295
+		}
+		control={
+			2893.000000 1353.500000 
+		}
+	}
+	outgoing={
+		name="bordeaux"
+		path={
+			201
+		}
+		control={
+			2903.300000 1390.000000 2850.000000 1387.000000 
+		}
+	}
+	members={
+		1298 #Sea
+		#124 125 126 2982 #sicily_area
+		115 116 117 2978 2980 #tuscany_area
+		#123 1934 2984 #calabria_area
+		101 102 2992 #liguria_area
+		103 1875 2981 #piedmont_area
+		1247
+		4727 # also new for 1.30, but this time it's in Italy
+		118 2976 4731 4732 # lazio-umbria
+		#121 2983 4734 # campania
+		104 1862 2979 4728 4740 # Lombardy
+		5781 5782 5783 5785 	#abaitaly
+		5787 105
+	}
+
 }
 
 sevilla={
@@ -2098,15 +2148,15 @@ bordeaux={
 			2756.000000 1449.500000 2785.000000 1452.000000 2805.000000 1459.000000 2832.000000 1470.000000 
 		}
 	}
-	outgoing={
-		name="genua"
-		path={
-			201
-		}
-		control={
-			2850.000000 1387.000000 2903.300000 1390.000000 
-		}
-	}
+	#outgoing={
+	#	name="genua"
+	#	path={
+	#		201
+	#	}
+	#	control={
+	#		2850.000000 1387.000000 2903.300000 1390.000000 
+	#	}
+	#}
 
 	members={
 		1276 #Water 
@@ -2121,39 +2171,6 @@ bordeaux={
 		173 #labourd
 	}
 }
-genua={
-	location=1298
-	color={
-		218 215 56 
-	}
-		outgoing={
-		name="venice"
-		path={
-			2980
-		}
-		control={
-			2965.000000 1397.000000 2998.000000 1414.300000 
-		}
-		}
-	members={
-		1298 #Sea
-		#124 125 126 2982 #sicily_area
-		115 116 117 2978 2980 #tuscany_area
-		#123 1934 2984 #calabria_area
-		101 102 2992 #liguria_area
-		103 1875 2981 #piedmont_area
-		1247
-		4727 # also new for 1.30, but this time it's in Italy
-		118 2976 4731 4732 # lazio-umbria
-		#121 2983 4734 # campania
-		104 1862 2979 4728 4740 # Lombardy
-		5781 5782 5783 5785 	#abaitaly
-		5787 105
-	}
-
-}
-
-
 
 champagne={
 	location=186
