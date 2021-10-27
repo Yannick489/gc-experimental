@@ -13833,7 +13833,7 @@ MYS_ideas = {
 		fire_damage = 0.2
 	}
 	mys_reform_silk_industry = {
-		siege_ability = 0.1
+		siege_ability = 0.2
 	}
 	mys_unification_of_mysore = {
 		administrative_efficiency = 0.05
