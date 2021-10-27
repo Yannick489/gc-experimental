@@ -128,10 +128,10 @@ country_decisions = {
 		}
 		provinces_to_highlight = {
 			OR = {
-				province_id = 429
-				province_id = 2213
-				province_id = 2218
-				province_id = 454
+				#province_id = 429
+				#province_id = 2213
+				#province_id = 2218
+				province_id = 465
 				province_id = 446
 				#province_id = 451
 				province_id = 445
@@ -147,12 +147,12 @@ country_decisions = {
 			is_free_or_tributary_trigger = yes
 			is_at_war = no
 			owns_core_province = 454	# Samarkand
-			owns_core_province = 446	# Herat
 			AND = {
 					owns_core_province = 446	# Herat
 					owns_core_province = 445	# Merv
-					#owns_core_province = 428	# Teheran/Rayy
+					owns_core_province = 465	# Nogai
 				}
+			army_size = 60	
 		}
 		effect = {
 			454 = {
