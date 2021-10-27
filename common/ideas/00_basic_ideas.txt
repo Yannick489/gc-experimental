@@ -416,7 +416,7 @@ offensive_ideas = {
 		prestige_from_land = 1.0
 	}
 	engineer_corps = {
-		siege_ability = 0.15
+		siege_ability = 0.2
 		artillery_bonus_vs_fort = 1
 	}
 	grand_army = {
@@ -446,7 +446,7 @@ defensive_ideas = {
 		land_morale = 0.125
 	}
 	defensive_mentality = {
-		defensiveness = 0.2
+		defensiveness = 0.33
 		fort_maintenance_modifier = -0.2
 	}
 	
