@@ -1563,10 +1563,10 @@ tropical_wood = {
 livestock = {
 	color = { 0.72 0.49 0.44 }
 	modifier = {
-		cavalry_cost = -0.1
+		cavalry_power = 0.1
 	}
 	province = {
-		supply_limit_modifier = 0.5
+		land_forcelimit = 0.25
 	}
 	chance = {
 		factor = 30
