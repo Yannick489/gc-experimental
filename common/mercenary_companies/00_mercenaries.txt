@@ -548,7 +548,10 @@ merc_mesopotamian_mamluks = {
 	cost_modifier = 1
 	sprites = { dlc080_alh_sprite_pack muslimgfx_sprite_pack }
 	trigger = {
-		TAG = MAM
+		OR = {
+			TAG = MAM
+			tag = EGY
+		}
 	}
     modifier = {
         cavalry_shock = 1.0
