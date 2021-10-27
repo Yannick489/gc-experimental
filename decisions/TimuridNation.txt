@@ -100,31 +100,10 @@ country_decisions = {
 				ai = no
 				is_playing_custom_nation = no
 			}
-			NOT = { tag = PAP }
-			NOT = { tag = HLR }
-			NOT = { tag = ROM }
-			NOT = { tag = MUG }
-			NOT = { tag = PER }
-			NOT = { tag = TIM }
-			NOT = { tag = ARL }
-			NOT = { tag = BUK }
-			NOT = { tag = ARB }
-			NOT = { tag = ORM }
-			is_colonial_nation = no
 			OR = {
-				is_former_colonial_nation = no
-				AND = {
-					is_former_colonial_nation = yes
-					ai = no
-				}
+				tag = AFG
+				tag = TRS
 			}
-			OR = {
-				culture_group = iranian
-				primary_culture = uzbehk
-				primary_culture = turkmeni
-			}
-			religion_group = muslim
-			#dynasty = "Timurid"
 		}
 		provinces_to_highlight = {
 			OR = {
