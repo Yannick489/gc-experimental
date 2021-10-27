@@ -91,7 +91,7 @@ merc_morlachs = {
 }
 # Black Army (Hungary)
 merc_black_army = {
-	regiments_per_development = 0.065
+	regiments_per_development = 0.1
 	cavalry_weight = 0.6
 	cavalry_cap = 15
     artillery_weight = 0
@@ -111,7 +111,7 @@ merc_black_army = {
 
 # Black Army Reserves (Hungary)
 merc_black_army_2 = {
-	regiments_per_development = 0.065
+	regiments_per_development = 0.1
 	cavalry_weight = 0.6
 	cavalry_cap = 15
     artillery_weight = 0
