@@ -7,12 +7,12 @@ vassal =  {
 }
 
 # Ferdinand and Isabel
-union = {
-	first = CAS
-	second = ARA
-	start_date = 1444.11.1
-	end_date = 1516.1.23
-}
+#union = {
+#	first = CAS
+#	second = ARA
+#	start_date = 1444.11.1
+#	end_date = 1516.1.23
+#}
 
 # Navarra under John II of Aragon
 union =  {
