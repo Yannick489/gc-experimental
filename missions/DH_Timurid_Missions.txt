@@ -246,18 +246,18 @@ dh_tim_india = {
 			else_if = {
 				limit = { is_year = 1550 }
 				define_general = {
-					name = "Humayun Timurid"
+					name = "Abu Said Timurid"
 					shock = 4
 					fire = 2
-					manuever = 2
-					siege = 2
+					manuever = 3
+					siege = 1
 					trait = master_of_arms_personality
 				}
 			}
 			else_if = {
 				limit = { is_year = 1500 }
 				define_general = {
-					name = "Babur Timurid"
+					name = "Abu Said Timurid"
 					shock = 4
 					fire = 2
 					manuever = 3
