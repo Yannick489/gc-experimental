@@ -2340,6 +2340,7 @@ ETH_ideas = {
 	
 	bonus = {
 		legitimacy = 1
+		devotion = 1
 	}
 	
 	trigger = {
@@ -2347,6 +2348,9 @@ ETH_ideas = {
 	}
 	free = yes		#will be added at load.
 	
+	diplomatic_demeanor = {
+		land_morale = 0.15
+	}
 	solomonid_claim = {
 		prestige = 1
 	}
@@ -2357,9 +2361,7 @@ ETH_ideas = {
 	hostile_borders = {
 		defensiveness = 0.20
 	}
-	diplomatic_demeanor = {
-		land_morale = 0.1
-	}
+	
 	the_ark_of_the_covenant = {
 		missionaries = 1
 	}
