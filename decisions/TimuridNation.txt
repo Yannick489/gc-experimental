@@ -133,7 +133,7 @@ country_decisions = {
 				province_id = 2218
 				province_id = 454
 				province_id = 446
-				province_id = 451
+				#province_id = 451
 				province_id = 445
 				#province_id = 428
 			}
@@ -148,18 +148,11 @@ country_decisions = {
 			is_at_war = no
 			owns_core_province = 454	# Samarkand
 			owns_core_province = 446	# Herat
-			OR = {
-				AND = {
-					owns_core_province = 429	# Isfahan
-					owns_core_province = 2213	# Qom
-					owns_core_province = 2218	# Shiraz
-				}
-				AND = {
-					owns_core_province = 451	# Kabul
+			AND = {
+					owns_core_province = 446	# Herat
 					owns_core_province = 445	# Merv
 					#owns_core_province = 428	# Teheran/Rayy
 				}
-			}
 		}
 		effect = {
 			454 = {
