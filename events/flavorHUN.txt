@@ -1364,18 +1364,6 @@ country_event = {
 			4239 = { save_event_target_as = belgrade_localized }
 		}
 	}
-
-	mean_time_to_happen = {
-		months = 150
-		modifier = {
-			factor = 0.75
-			truce_with = TUR
-		}
-		modifier = {
-			factor = 0.5
-			war_with = TUR
-		}
-	}
 	
 	option = {
 		name = flavor_hun.20.a
