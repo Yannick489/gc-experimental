@@ -51,4 +51,8 @@
  gc_eth_events.4.c:0 "The Militarist"
  gc_eth_events.4.d:0 "The Strategist"
  gc_eth_events.4.e:0 "The Tactician"
+
+ gc_tim_events.1.t:0 "New Heir of Timur"
+ gc_tim_events.1.d:0 "As the descendant of Timur Lenk, the great conqueror of Iran, Transoxiana and Khorasan, it is our duty to reclaim his legacy. With the traditional Timurid Strongholds under our control we can at last proclaim ourselves the head of Timur's dynasty, and the leader of all of the Ghurkani princes."
+ gc_tim_events.1.a:0 "One to rule them all"
  
