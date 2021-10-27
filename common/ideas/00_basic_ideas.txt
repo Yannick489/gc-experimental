@@ -224,7 +224,7 @@ innovativeness_ideas = {
 		idea_cost = -0.1
 	}
 	print_culture = {
-		drill_decay_modifier = -0.1
+		mercenary_manpower = 0.25
 	}
 	optimism = {
 		war_exhaustion = -0.05
