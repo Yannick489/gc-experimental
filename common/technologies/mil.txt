@@ -88,6 +88,7 @@ technology = {
 	year = 1440
 	
 	land_morale = 	0.5
+	cavalry_shock		= 	0.5
 	may_drill = yes
 }
 
@@ -152,7 +153,7 @@ technology = {
 	military_tactics 	= 	0.25
 	infantry_shock		= 	0.30
 	infantry_fire 		= 	0.20
-	
+	cavalry_shock		= 	0.30
 	
 	barracks = yes
 
