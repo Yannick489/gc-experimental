@@ -14,18 +14,11 @@ QAR_conquest = {
 			OR = {
 				is_rival = KRM
 				is_rival = FRS
-				is_rival = ALH
+				is_rival = MHR
 		
 				}
 		}
 		effect = {
-			bahrain_area = {
-				limit = {
-					NOT = { is_claim = ROOT }
-					NOT = { is_core = ROOT	}
-				}
-				add_permanent_claim = ROOT
-			}
 			nafud_area  = {
 				limit = {
 					NOT = { is_claim = ROOT }
