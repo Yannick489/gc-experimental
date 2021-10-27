@@ -941,6 +941,7 @@ estate_nobles_advisors = {
 			value = 4
 			}
 		}
+		NOT = { has_estate_privilege = estate_nobles_advisors }
 	}
 	penalties = {
 		stability_cost_modifier = 0.05
