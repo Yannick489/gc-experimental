@@ -842,9 +842,6 @@ on_monarch_death = {
 
 # country
 on_regent = {
-	events = {
-		tribal_succession.1	# harsh anti-tribals.
-	}
 }
 
 # country
