@@ -34,6 +34,16 @@
  third_rome:0 "The Third Rome"
  desc_third_rome:0 "We have conquered the City of World's Desire. This achievement has provided our armies with unrelenting fervour for the Russian state."
 
+ #Province Triggered Modifiers
+ conquest_of_constantinople:0 "Conquest of Constantinople"
+ conquest_of_paris:0 "Conquest of Paris"
+ conquest_of_vienna:0 "Conquest of Vienna"
+ conquest_of_jerusalem:0 "Conquest of Jerusalem"
+ conquest_of_baghdad:0 "Conquest of Baghdad"
+ conquest_of_delhi:0 "Conquest of Delhi"
+ conquest_of_kiev:0 "Conquest of Kiev"
+ conquest_of_cairo:0 "Conquest of Cairo"
+
  #Advisor Event modifiers
  gc_arty_officer_delayed:0 "Arty Officer Delayed"
  gc_arty_officer_modifier:0 "Excellent Artillery Officers"
