@@ -2866,7 +2866,7 @@ PAP_ideas = {
 		state_maintenance_modifier = -0.25
 	}
 	the_vatican_museums = {
-		possible_policy = 1
+		free_mil_policy = 1
 	}
 
 }
