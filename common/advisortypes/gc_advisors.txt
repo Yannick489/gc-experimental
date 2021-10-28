@@ -104,24 +104,3 @@ cavalry_leader = {
 		factor = 1
 	}
 }
-
-recruitmaster = {
-	monarch_power = MIL
-	
-	# Bonus
-	manpower_recovery_speed = 0.20
-	
-	skill_scaled_modifier = { meritocracy = 0.25 }
-
-	chance = {
-		factor = 1
-	}
-	
-	ai_will_do = {
-		factor = 1
-		modifier = {
-			factor = 1.5
-			is_at_war = no
-		}
-	}
-}
