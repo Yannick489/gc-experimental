@@ -153,7 +153,7 @@ arctic = {
 	local_hostile_attrition = 1
 
 	allowed_num_of_buildings = -1
-	local_development_cost = 0.5
+	#local_development_cost = 0.5
 
 	picture = "climate_arctic"
 }
@@ -370,7 +370,7 @@ non_accepted_culture = {
 	local_tax_modifier = -0.33
 	local_missionary_strength = -0.02
 	local_manpower_modifier = -0.33
-	local_sailors_modifier = -0.2
+	#local_sailors_modifier = -0.2
 	local_unrest = 2					#1% revolt risk!
 }
 
