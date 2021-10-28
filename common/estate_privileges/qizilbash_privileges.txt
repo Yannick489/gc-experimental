@@ -37,6 +37,7 @@ estate_qizilbash_levies = {
 				#culture = mazandarani
 				#culture = kurdish
 				culture = luri
+				culture = turkish
 				}
 			}
 		}	
@@ -58,6 +59,7 @@ estate_qizilbash_levies = {
 					#culture = mazandarani
 					#culture = kurdish
 					culture = luri
+					culture = turkish
 					}
 				}
 				add_province_modifier = {
