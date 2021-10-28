@@ -14,7 +14,7 @@ technology = {
 	
 	sprite_level = 1
 
-	infantry_fire		= 	0.25
+	#infantry_fire		= 	0.25
 	infantry_shock 		= 	0.20	
 	cavalry_shock  		= 	0.8	
 	land_morale 		= 	2.0
@@ -24,8 +24,8 @@ technology = {
 	# Tech 1
 	year = 1390
 	
-	infantry_shock		= 	0.1
-	infantry_fire 		= 	0.1
+	#infantry_shock		= 	0.1
+	#infantry_fire 		= 	0.1
 	
 	fort_15th = yes
 	
@@ -88,8 +88,9 @@ technology = {
 	year = 1440
 	
 	land_morale = 	0.5
-	cavalry_shock		= 	0.5
 	may_drill = yes
+	enable = large_cast_bronze_mortar 
+	enable = houfnice
 }
 
 technology = {
@@ -151,9 +152,9 @@ technology = {
 	
 	#Arquebus
 	military_tactics 	= 	0.25
-	infantry_shock		= 	0.30
+	#infantry_shock		= 	0.30
 	infantry_fire 		= 	0.20
-	cavalry_shock		= 	0.30
+	
 	
 	barracks = yes
 
@@ -186,8 +187,6 @@ technology = {
 	artillery_fire 		= 	1
 	artillery_shock 	=	0.05
 	military_tactics 	= 	0.25
-	enable = large_cast_bronze_mortar 
-	enable = houfnice
 }
 
 technology = {
@@ -222,7 +221,8 @@ technology = {
 	enable = steppe_raiders
 	enable = ha_xiuhtecuhtli_soldier
 	military_tactics 	= 	0.25
-	combat_width = 1	
+	combat_width = 1
+	infantry_fire = 0.15
 }
 
 technology = {
@@ -231,7 +231,8 @@ technology = {
 	
 	#Reiter
 	maneuver_value 		= 	0.25
-
+	cavalry_fire		= 	0.5
+	
 	enable = hungarian_hussar
 	enable = ottoman_spahi		
 	enable = culverin		
@@ -266,7 +267,7 @@ technology = {
 	
 	#Matchlock Musket
 	infantry_shock		= 	0.20
-	cavalry_fire		= 	0.5
+	#cavalry_fire		= 	0.5
 
 	
 	weapons = yes
@@ -283,6 +284,7 @@ technology = {
 	
 	supply_limit 		= 	0.5
 	military_tactics	=	0.25
+	infantry_fire = 0.2
 
 	enable = tofongchis_musketeer
 	enable = ge_tofongchis_musketeer	
@@ -300,6 +302,7 @@ technology = {
 	enable = ethiopian_mountain_warfare		
 	enable = steppe_footmen
 	enable = ha_xiuhtecuhtlian_infantry
+
 }
 
 technology = {
