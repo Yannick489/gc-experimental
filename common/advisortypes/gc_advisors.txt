@@ -36,3 +36,20 @@ gc_arty_officer = {
 		factor = 1
 	}
 }
+
+gc_inquisitor = {
+	monarch_power = ADM
+	
+	# Bonus
+	culture_conversion_cost = -0.25
+
+	skill_scaled_modifier = { meritocracy = 0.25 }
+
+	chance = {
+		factor = 1
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
