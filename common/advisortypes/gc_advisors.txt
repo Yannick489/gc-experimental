@@ -93,7 +93,6 @@ cavalry_leader = {
 	
 	# Bonus
 	cavalry_power = 0.1
-	cavalry_cost = -0.1
 
 	skill_scaled_modifier = { meritocracy = 0.25 }
 
