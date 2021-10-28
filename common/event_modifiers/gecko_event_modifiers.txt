@@ -117,3 +117,20 @@ gc_ethiopia_crusade = {
 	army_tradition_decay = -0.01
 	movement_speed = 0.10
 }
+
+gc_arty_officer_delayed = {
+	arty_power = 0.001
+}
+
+gc_arty_officer_modifier = {
+	arty_power = 0.10
+}
+
+gc_drill_master_delayed = {
+	drill_decay_modifier = -0.001
+}
+
+gc_drill_master_modifier = {
+	yearly_army_professionalism = 0.02
+    drill_decay_modifier = -0.25
+}

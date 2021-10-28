@@ -34,6 +34,12 @@
  third_rome:0 "The Third Rome"
  desc_third_rome:0 "We have conquered the City of World's Desire. This achievement has provided our armies with unrelenting fervour for the Russian state."
 
+ #Advisor Event modifiers
+ gc_arty_officer_delayed:0 "Arty Officer Delayed"
+ gc_arty_officer_modifier:0 "Excellent Artillery Officers"
+ gc_drill_master_delayed:0 "Drill Master Delayed"
+ gc_drill_master_modifier:0 "Excellent Drill Master"
+
  #Mamluks
  mam_slave_soldiers:0 "Gihadiya Conscription"
  desc_mam_slave_soldiers:0 "We have conquered the Sudan and enlisted their warriors into our regiments in return for them keeping their domains."
