@@ -18,7 +18,7 @@ country_event = {
 			add_base_tax = 4
 			add_base_production = 4
 			add_base_manpower = 4
-		}		
+		}
 	}
 }
 
@@ -149,6 +149,6 @@ country_event = {
 					add_center_of_trade_level = 1
 		}
 		#add_treasury = 500
-		#add_manpower = 20
+		add_manpower = 10
 	}
 }

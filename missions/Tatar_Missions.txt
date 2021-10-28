@@ -30,7 +30,7 @@ tatar_missions_1 = {
 				province_id = 303
 				province_id = 466
 				province_id = 464
-				province_id = 465
+				#province_id = 465
 			}
 			NOT = {
 				AND = {
@@ -80,9 +80,12 @@ tatar_missions_1 = {
 			owns_core_province = 303
 			owns_core_province = 466
 			owns_core_province = 464
-			owns_core_province = 465
+			#owns_core_province = 465
 		}
 		effect = {
+			add_mil_power = 100
+			add_dip_power = 100
+			add_adm_power = 100
 			country_event = { id = gecko_crimea_mission.1 }
 			caucasia_region = {
 				limit = {
