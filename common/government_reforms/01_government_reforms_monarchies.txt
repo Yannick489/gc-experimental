@@ -1248,6 +1248,7 @@ enforce_privileges_reform = {
 	}
 	modifiers = {
 		global_manpower_modifier = 0.15
+		church_influence_modifier = -0.1
 	}
 	ai = {
 		factor = 1
