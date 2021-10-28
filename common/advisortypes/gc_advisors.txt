@@ -53,3 +53,76 @@ gc_inquisitor = {
 		factor = 1
 	}
 }
+
+siege_specialist = {
+	monarch_power = MIL
+	
+	# Bonus
+	siege_ability = 0.20
+
+	skill_scaled_modifier = { meritocracy = 0.25 }
+
+	chance = {
+		factor = 1
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+infantry_leader = {
+	monarch_power = MIL
+	
+	# Bonus
+	infantry_power = 0.1
+
+	skill_scaled_modifier = { meritocracy = 0.25 }
+
+	chance = {
+		factor = 1
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+cavalry_leader = {
+	monarch_power = MIL
+	
+	# Bonus
+	cavalry_power = 0.1
+	cavalry_cost = -0.1
+
+	skill_scaled_modifier = { meritocracy = 0.25 }
+
+	chance = {
+		factor = 1
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+recruitmaster = {
+	monarch_power = MIL
+	
+	# Bonus
+	manpower_recovery_speed = 0.20
+	
+	skill_scaled_modifier = { meritocracy = 0.25 }
+
+	chance = {
+		factor = 1
+	}
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 1.5
+			is_at_war = no
+		}
+	}
+}
