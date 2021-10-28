@@ -35,7 +35,7 @@ estate_qizilbash_levies = {
 			OR = {
 				culture = azerbaijani
 				#culture = mazandarani
-				culture = kurdish
+				#culture = kurdish
 				culture = luri
 				}
 			}
@@ -56,7 +56,7 @@ estate_qizilbash_levies = {
 					OR = {
 					culture = azerbaijani
 					#culture = mazandarani
-					culture = kurdish
+					#culture = kurdish
 					culture = luri
 					}
 				}
