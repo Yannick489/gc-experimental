@@ -171,6 +171,7 @@ categories =  {
 		local_development_cost = 0.20
 		nation_designer_cost_multiplier = 0.85
 		supply_limit = 5
+
 		
 		terrain_override = {
 			508 509 511 515 525 527 530 545 550 554 557 1947 2036 
@@ -306,8 +307,10 @@ categories =  {
 		defence = 1
 		local_defensiveness = 0.35
 		local_development_cost = 0.20
+		combat_width = -0.25
 		nation_designer_cost_multiplier = 0.75
 		supply_limit = 4
+	
 		
 		terrain_override = {
 			210	226 # Spain
