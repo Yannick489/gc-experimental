@@ -415,6 +415,7 @@ iqta = {
 	potential = {
 		religion_group = muslim
 		NOT = {tag = SON}
+		NOT = {tag = PR2}
 		NOt = {tag = ZAN}
 	}
 	valid_for_nation_designer = yes
