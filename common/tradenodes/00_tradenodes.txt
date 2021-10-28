@@ -981,6 +981,19 @@ constantinople={
 			3312.000000 1318.000000 3387.000000 1314.000000 
 		}
 	}
+	members={
+		1320 325 328 2299 2304 
+		329 1846 2300 4314 4315 #rum_area
+		316 317 2296 #hudavendigar_area
+		322 1848 4308 4311 #germiyan_area
+		318 319 2297 2298 4309 #aydin_area
+		326 4312 4313 #ankara_area
+		321 327 2302 #cukurova_area #smeev
+		323 324 2301 4307 #karaman_area #smeev
+		332 2303 4310 2308 #dulkadir_area #smeev
+		331 2305 330 #erzurum #smeev
+		418 2306 2307 4295 4296 #north_kurdistan_area
+		}
 }
 persia={
 	location=4341
