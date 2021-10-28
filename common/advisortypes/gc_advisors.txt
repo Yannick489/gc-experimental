@@ -41,7 +41,7 @@ gc_inquisitor = {
 	monarch_power = ADM
 	
 	# Bonus
-	culture_conversion_cost = -0.25
+	culture_conversion_cost = -0.10
 
 	skill_scaled_modifier = { meritocracy = 0.25 }
 
