@@ -32,7 +32,7 @@ aristocracy_ideas = {
 		army_tradition_from_battle = 0.5
 	}
 	noble_resilience = {
-		general_cost = -0.20
+		prestige_from_land = 1
 	}
 	international_nobility = {
 		fire_damage_received = -0.15
@@ -413,7 +413,7 @@ offensive_ideas = {
 		leader_land_fire = 1
 	}
 	glorious_arms = {
-		prestige_from_land = 1.0
+		general_cost = -0.25
 	}
 	engineer_corps = {
 		siege_ability = 0.2
