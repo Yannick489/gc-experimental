@@ -170,7 +170,7 @@ gc_cri_branch_2 = {
         provinces_to_highlight = {
             OR = {
 				area = azov_area
-				area = crimea_area
+				area = simferopol_area
 			}
 			NOT = {
 				country_or_non_sovereign_subject_holds = ROOT
