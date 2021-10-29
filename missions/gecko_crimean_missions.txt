@@ -524,6 +524,7 @@ gc_cri_branch_3 = {
         }
 
         trigger = {
+            tag = CRI
             horde_unity = 80
             is_at_war = no
 			is_free_or_tributary_trigger = yes
@@ -551,6 +552,14 @@ gc_cri_branch_3 = {
 				mil = 6
 			}							
 			kill_heir = yes
+            if = {
+				limit = {
+					NOT = { government = republic }
+					is_revolutionary = no
+				}
+				change_government_to_republic = yes
+				add_government_reform = cossacks_reform
+			}
         }
     }
 } #End Branch 3
