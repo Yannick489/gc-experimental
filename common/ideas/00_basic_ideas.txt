@@ -888,16 +888,18 @@ quantity_ideas = {
 		global_regiment_cost = -0.1
 	}
 	the_old_and_infirm = {
-		land_maintenance_modifier = -0.05
+		land_maintenance_modifier = -0.1
 	}
 	camp_followers = {
 		global_supply_limit_modifier = 0.33
+		reinforce_cost = -0.25
 	}
 	garrison_conscription = {
 		free_leader_pool = 1
+		land_morale = 0.05
 	}
 	expanded_supply_trains = {
-		land_attrition = -0.1
+		land_attrition = -0.25
 	}
 
 	ai_will_do = {
