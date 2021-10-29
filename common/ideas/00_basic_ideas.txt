@@ -837,7 +837,7 @@ quality_ideas = {
 	}
 
 	private_to_marshal = {
-		infantry_power = 0.125
+		infantry_power = 0.10
 	}
 	noble_officers = {
 		army_tradition_decay = -0.01
