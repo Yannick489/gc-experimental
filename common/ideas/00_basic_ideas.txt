@@ -12,7 +12,7 @@ aristocracy_ideas = {
 
 	bonus = {
 		leader_siege = 1
-		nobles_loyalty_modifier = 0.2
+		
 	}
 	
 	noble_knights = {
@@ -30,9 +30,10 @@ aristocracy_ideas = {
 	}
 	quality_education = {
 		army_tradition_from_battle = 0.5
+		prestige_from_land = 1
 	}
 	noble_resilience = {
-		prestige_from_land = 1
+		nobles_loyalty_modifier = 0.2
 	}
 	international_nobility = {
 		fire_damage_received = -0.15
@@ -892,7 +893,6 @@ quantity_ideas = {
 	}
 	camp_followers = {
 		global_supply_limit_modifier = 0.33
-		reinforce_cost = -0.25
 	}
 	garrison_conscription = {
 		free_leader_pool = 1
