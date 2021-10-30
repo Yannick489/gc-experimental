@@ -489,7 +489,7 @@ venetia_area = { #5
 
 po_valley_area = { #4
 	color = { 205 190 47 }
-	 4739 107 
+	 4739 107 109 
 }
 
 piedmont_area = { #4
@@ -513,7 +513,7 @@ western_sicily_area = { #3
 }
 
 central_italy_area = { #3
-	119 120 6050 2977 114 
+	119 120 6050 2977 2976
 }
 
 krain_area = { #3
@@ -531,7 +531,7 @@ corsica_area = { #3
 
 emilia_romagna_area = { #5
 	color = { 24 222 66 }
-	 106 113 4730 109 6045
+	 106 113 114 4730 6045
 }
 
 calabria_area = { #5 (+Lucania)
@@ -544,7 +544,7 @@ torino_area = { #3 #Mountains woo
 
 
 siena_area = { #3
-	117 6048 6049 2976
+	117 6048 6049
 }
 
 ########################################

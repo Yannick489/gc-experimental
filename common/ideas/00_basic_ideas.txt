@@ -208,7 +208,7 @@ innovativeness_ideas = {
 	category = ADM
 
 	bonus = {
-	possible_policy = 1
+	free_policy = 1
 	}
 	scientific_revolution = {
 		technology_cost = -0.1
@@ -267,7 +267,7 @@ religious_ideas = {
 	}
 	deus_vult = {
 		cb_on_religious_enemies = yes
-		warscore_cost_vs_other_religion = -0.10
+		province_warscore_cost = -0.10
 	}
 	church_attendance_duty = {
 		global_tax_modifier = 0.2
@@ -762,7 +762,7 @@ maritime_ideas = {
 	}
 
 	bonus = {
-		free_policy = 1
+		free_mil_policy = 1
 	}
 
 	merchant_traditions = {
@@ -1001,7 +1001,7 @@ administrative_ideas = {
 	}
 	civil_servants = {
 		monthly_splendor = 3
-		
+		advisor_pool = 2
 	}
 	benefits_for_mercenaries = {
 		mercenary_cost = -0.25

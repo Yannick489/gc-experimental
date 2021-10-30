@@ -223,7 +223,7 @@ categories =  {
 			137 4753 # Balkans
 			4764 # Salins
 			4788 4789
-			
+			111
 
 		}
 	}
@@ -368,6 +368,7 @@ categories =  {
 			381 #Ajloun
 			156 #Temes 
 			4239 #Belgrade
+			5777 5778
 		}
 	}
 
@@ -512,7 +513,6 @@ categories =  {
 			88 #artois smeev
 			408 2311 4288 4290 #iraq marshes #smeev
 			87 #calais #smeev
-			111
 		}
 	}
 	
