@@ -475,7 +475,7 @@ lazio_area = { #4 Lazio-Umbria
 }
 
 apulia_area = { #4
-	122 1933 2985 4733 5788
+	122 1933 2985 4733
 }
 
 
