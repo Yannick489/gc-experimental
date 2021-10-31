@@ -459,28 +459,28 @@ macaronesia_area = { #3
 ########################################
 
 lombardy_area = { #5
-	104 1862 4728 4740 6078
+	104 1862 4728 4740 2979
 }
 
 tuscany_area = { #5
-	115 116 2978 2980 6047
+	115 116 117 2978 2980
 }
 
 naples_area = { #3  #Campania
-	121 2983 6060
+	121 2983 4734
 }
 
 lazio_area = { #4 Lazio-Umbria
-	118 4731 6052 6053 6051
+	118 2976 4731 4732
 }
 
 apulia_area = { #4
-	122 1933 2985 4733
+	122 1933 2985 4733 5788
 }
 
 
 ########################################
-# GC Italy							   #
+# aba Italy							   #
 ########################################
 
 venetia_area = { #5
@@ -489,15 +489,15 @@ venetia_area = { #5
 
 po_valley_area = { #4
 	color = { 205 190 47 }
-	 4739 107 109 
+	 4739 107 
 }
 
 piedmont_area = { #4
-	1875 2981 4727 6075 5783 103
+	1875 2981 4727 
 }
 
 liguria_area = { #3
-	101 102 2992 105 6046
+	101 102 2992 5787 105
 }
 
 corsica_sardinia_area = { #4
@@ -513,7 +513,7 @@ western_sicily_area = { #3
 }
 
 central_italy_area = { #3
-	119 120 6050 2977 2976
+	119 120 2977 114
 }
 
 krain_area = { #3
@@ -531,7 +531,7 @@ corsica_area = { #3
 
 emilia_romagna_area = { #5
 	color = { 24 222 66 }
-	 106 113 114 4730 6045
+	 106 113 4730 109
 }
 
 calabria_area = { #5 (+Lucania)
@@ -539,13 +539,9 @@ calabria_area = { #5 (+Lucania)
 }
 
 torino_area = { #3 #Mountains woo
-	5785 2981 6075 2979
+	103 5783 5785
 }	
 
-
-siena_area = { #3
-	117 6048 6049
-}
 
 ########################################
 # British Isles			 			   #
@@ -2858,8 +2854,9 @@ central_mongolia_area = { #3
 }
 
 uliastai_area = {#3
-	719 2189 2190
+	719 2189 2190 4678
 }
+
 jetysuu_area = { #5
 	color = { 56 37 169 }
 	459 461 2125 2126 2368
@@ -2975,6 +2972,110 @@ west_gansu_area = { #4
 	707 708
 }
 
+
+ankang_area = {
+	
+}
+
+changsha_area = {
+	
+}
+
+changzhi_area = {
+}
+
+chengde_area = {
+}
+
+dali_area = {
+}
+
+dalian_area = {
+}
+
+datong_area = {
+}
+
+alxa_area = {
+}
+
+ganzhou_area = {
+}
+
+guangzhou_area = {
+}
+
+guilin_area = {
+}
+hangzhou_area = { 
+}
+
+hanzhong_area = {
+}
+
+huai-an_area = {
+}
+
+jinan_area = {
+}
+
+jinzhong_area = {
+}
+
+kunming_area = {
+}
+
+lanzhou_area = {
+}
+
+luzhou_area = { 
+}
+
+shenyang_area = {
+}
+
+tai-an_area = {
+}
+
+ejin_area = {
+}
+
+ulanqab_area = {
+}
+
+weichang_area = {
+}
+
+
+xianning_area = {
+}
+
+
+chifeng_area = {
+}
+
+chengdu_area = {
+}
+
+hainan_area = {
+}
+
+xuzhou_area = {
+}
+
+biyang_area = {
+}
+
+yanshan_area = {
+}	
+
+wuchang_area = {
+}
+kaiyang_area = {
+}
+
+yunnan_area = {
+}
 ########################################
 # South America    	                   #
 ########################################

@@ -1,7 +1,7 @@
 #5777 - Udine
 
-owner = AQU
-controller = AQU
+owner = VEN
+controller = VEN
 culture = venetian 
 religion = catholic 
 hre = yes 
@@ -11,7 +11,7 @@ trade_goods = wine
 base_manpower = 1    
 capital = "Udine" 
 is_city = yes # Estimated
-add_core = AQU
+add_core = VEN
 fort_15th = yes
 
 
