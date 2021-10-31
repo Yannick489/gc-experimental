@@ -2858,9 +2858,8 @@ central_mongolia_area = { #3
 }
 
 uliastai_area = {#3
-	719 2189 2190 4678
+	719 2189 2190
 }
-
 jetysuu_area = { #5
 	color = { 56 37 169 }
 	459 461 2125 2126 2368
