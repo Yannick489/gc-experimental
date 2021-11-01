@@ -90,6 +90,7 @@ italy_region = {
 		corsica_area
 		torino_area
 		carinthia_area
+		siena_area
 	}
 }
 
@@ -812,6 +813,8 @@ burma_region = {
 		kachin_area
 		upper_burma_area
 		lower_burma_area
+		shan_hill_area
+		karenni_area
 		arakan_area
 		central_burma_area
 		chindwin_area

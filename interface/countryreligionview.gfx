@@ -299,13 +299,13 @@ spriteTypes = {
 	}
 	
 	spriteType = {
-		name = "gc_GFX_religion_secondary_convert_button"
-		texturefile = "gfx//interface//gc_religion_secondary_convert_button.dds"	
+		name = "GFX_religion_secondary_convert_button"
+		texturefile = "gfx//interface//religion_secondary_convert_button.dds"	
 	}	
 	
 	spriteType = {
 		name = "GFX_change_religion_button"
-		texturefile = "gfx//interface//gc_religion_secondary_convert_button.dds"	
+		texturefile = "gfx//interface//religion_secondary_convert_button.dds"	
 	}	
 
 	spriteType = {

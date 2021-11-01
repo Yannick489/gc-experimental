@@ -2426,7 +2426,7 @@
  SORT_UNITY:0 "Sort by the impact on religious unity converting this province will have."
  UNITY_IMPACT:0 "Converting $NAME$ will increase religious unity by $CHANGE$.\nIt currently increases it by $CURR|Y$."
  CONVERT:0 "Convert"
- CONVERT_SECONDARY:0 "Change Religious School via the "Invite an Islamic Scholar Decision.""
+ CONVERT_SECONDARY:0 ""
  NO_CONVERT_POSSIBLE:0 "§Y$RELIGION$§! is not allowed to convert to another religion."
  NO_POTENTIAL_RELIGION:0 ""
  NO_POTENTIAL_SECONDARY_RELIGION:0 ""

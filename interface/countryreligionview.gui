@@ -393,7 +393,7 @@ guiTypes = {
 			guiButtonType = 
 			{
 				name ="invite_scholar_button"
-				quadTextureSprite = "gc_GFX_religion_secondary_convert_button"
+				quadTextureSprite = "GFX_religion_secondary_convert_button"
 				position = { x= 180 y = 148 }
 				tooltip = ""
 				tooltipText =""
@@ -456,7 +456,7 @@ guiTypes = {
 		iconType =
 		{
 			name ="secondary_religion_icon"
-			spriteType = "gc_GFX_religion_secondary_convert_button"
+			spriteType = "GFX_religion_secondary_convert_button"
 			position = { x = 92 y = 180 }
 			Orientation = "UPPER_LEFT"
 			hint_tag = "hint_religion"
@@ -466,7 +466,7 @@ guiTypes = {
 		guiButtonType = 
 		{
 			name ="convert_secondary_button"
-			quadTextureSprite = "gc_GFX_religion_secondary_convert_button"
+			quadTextureSprite = "GFX_religion_secondary_convert_button"
 			position = { x= 180 y = 148 }
 			tooltip = ""
 			tooltipText =""
@@ -2595,7 +2595,7 @@ guiTypes = {
 
 		iconType = {
 			name ="muslim_school_banner"
-			spriteType = "gc_GFX_religion_secondary_convert_button"
+			spriteType = "GFX_religion_secondary_convert_button"
 			position = { x= 1 y = -10 }
 			alwaystransparent = yes
 		}
@@ -2627,7 +2627,7 @@ guiTypes = {
 		guiButtonType = {
 			name = "pick_school"
 			position = { x=306 y = 6}
-			quadTextureSprite ="gc_GFX_religion_secondary_convert_button"
+			quadTextureSprite ="GFX_religion_secondary_convert_button"
 			buttonText = "SELECT"
 			buttonFont = "vic_18"
 			Orientation = "LEFT"
